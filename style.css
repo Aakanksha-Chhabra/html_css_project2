@@ -1,11 +1,10 @@
 body{
-  margin-top: 170px;
+  margin-top: 20px;
   padding: 0;
   box-sizing:  content-box;
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: black;
   color: #F7CD2E;
-  overflow: hidden;
 }
 
 img[alt="background"]{
